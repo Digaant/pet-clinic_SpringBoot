@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>garg.digaant</groupId>
 	<artifactId>dg-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>Simple pet clinic Web App</description>
 
@@ -45,7 +45,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/Digaant/pet-clinic_SpringBoot.git</developerConnection>
-	  <tag>dg-pet-clinic-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
