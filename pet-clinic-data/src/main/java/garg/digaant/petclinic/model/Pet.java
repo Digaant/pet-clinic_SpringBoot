@@ -1,4 +1,4 @@
-package garg.digaant.petClinic.model;
+package garg.digaant.petclinic.model;
 
 import java.time.LocalDate;
 
