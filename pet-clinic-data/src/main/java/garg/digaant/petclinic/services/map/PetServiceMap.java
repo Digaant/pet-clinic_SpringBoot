@@ -2,9 +2,11 @@ package garg.digaant.petclinic.services.map;
 
 import garg.digaant.petclinic.model.Pet;
 import garg.digaant.petclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
     @Override
     public Set<Pet> findAll() {
