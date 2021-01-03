@@ -45,7 +45,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/Digaant/pet-clinic_SpringBoot.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+    </scm>
 
 </project>
