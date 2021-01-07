@@ -1,7 +1,7 @@
 package garg.digaant.petclinic.repository;
 
 import garg.digaant.petclinic.model.PetType;
-import garg.digaant.petclinic.services.CrudService;
+import org.springframework.data.repository.CrudRepository;
 
-public interface PetTypeRepository extends CrudService<PetType, Long> {
+public interface PetTypeRepository extends CrudRepository<PetType, Long> {
 }
